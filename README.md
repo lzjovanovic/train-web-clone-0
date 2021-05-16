@@ -1,2 +1,5 @@
 # train-web-clone-0
-clone weboages
+
+## DDG clone homepage
+
+css rookie practice 01.
