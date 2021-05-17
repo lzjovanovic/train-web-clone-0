@@ -75,16 +75,14 @@ header {
   line-height: 28px;
 }
 .hero-intro .btn {
+  display: block;
   width: 235px;
   margin: 20px auto 0;
-  border-radius: 10px;
-  background-color: #678fff;
-}
-.btn a {
-  min-width: 235px;
   line-height: 44px;
   font-size: 0.9em;
   font-weight: 700;
   color: white;
+  border-radius: 10px;
   text-decoration: none;
+  background-color: #678fff;
 }
