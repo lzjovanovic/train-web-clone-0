@@ -3,11 +3,13 @@
   padding: 0;
   list-style: none;
 }
+body {
+  background-color: #f7f7f7;
+}
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300&display=swap");
 main {
   width: 100%;
-  height: 100vh;
-  background-color: #f7f7f7;
+  height: 100%;
   font-family: "Noto Sans TC", sans-serif;
 }
 .container {
